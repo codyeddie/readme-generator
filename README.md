@@ -1,33 +1,29 @@
-# README Generator
-
-  # README Generator
+# README Generator 
 
 # Table of Contents 
 * [Installation](#installation)
-You need to run NPM Init, NPM Install, and NPM Install Inquirer in the command line  after cloning the repository to your local machine.
+You need to initialize/install NPM and install the inquirer package.
 * [Usage](#usage)
-This application is a quick way to create a README.md file without having to write the file from scratch.
-* [License](#contribution)
-N/A
-* [Credits](#license)
-
+This application makes it easy to quickly create a README.md file without having to write it from scratch.
+* [License](#license)
+MIT
+* [Contribution](#contribution)
+Tutor
 
 # Description
-This application creates a readme based on user input
+This project uses command line prompts to generate a README.md file
 * GitHub Link
 https://github.com/codyeddie/readme-generator
 # Installation
-You need to run NPM Init, NPM Install, and NPM Install Inquirer in the command line  after cloning the repository to your local machine.
+You need to initialize/install NPM and install the inquirer package.
 # Usage
-This application is a quick way to create a README.md file without having to write the file from scratch.
-# Contribution
-undefined
+This application makes it easy to quickly create a README.md file without having to write it from scratch.
 # Tests
-I used the debugger tool and the console log to test this project.
+I used the console log and the command line node error message when applicable 
 # License
 Your project is covered under license:
 
- 
-undefined
+MIT 
 
-
+# Contribution
+undefined helped with the creation of this project.

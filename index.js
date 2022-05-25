@@ -46,10 +46,9 @@ const questions = [
         message: 'How was your project be tested?',
     },
     {
-        type: 'checkbox',
+        type: 'input',
         name: 'license',
         message: 'What license is your project using?',
-        choices: ['Apache', 'Boost', 'MIT', 'None'],
     },
 
 ];

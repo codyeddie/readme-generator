@@ -1,29 +1,40 @@
-# README Generator 
+# README.MD Generator
 
-# Table of Contents 
+## Table of Contents 
+
 * [Installation](#installation)
-You need to initialize/install NPM and install the inquirer package.
+First you clone the repo from github to your local machine. Once it's cloned, you'll use the command 'npm install' in your command line to install all depencies. Once depencies are installed, use the command 'node index' to launch the command line prompts.
+
 * [Usage](#usage)
-This application makes it easy to quickly create a README.md file without having to write it from scratch.
+This application can be used to quickly generate a custom README.MD file based on user input for command line prompts.
 * [License](#license)
 MIT
 * [Contribution](#contribution)
-Tutor
+My tutor and referencing my module lessons were how I completed this project.
 
-# Description
-This project uses command line prompts to generate a README.md file
+## Description
+This application uses command line prompts to generate a README.MD file
+
 * GitHub Link
 https://github.com/codyeddie/readme-generator
-# Installation
-You need to initialize/install NPM and install the inquirer package.
-# Usage
-This application makes it easy to quickly create a README.md file without having to write it from scratch.
-# Tests
-I used the console log and the command line node error message when applicable 
-# License
-Your project is covered under license:
 
-MIT 
+* Video Walkthrough
+https://drive.google.com/file/d/17VGG7PU6eX1a_ubHimblq3-KU6EHGoYL/view
 
-# Contribution
-undefined helped with the creation of this project.
+* Screenshot 
+![Screenshot](/assets/imgs/screenshot.png)
+
+## Installation
+First you clone the repo from github to your local machine. Once it's cloned, you'll use the command 'npm install' in your command line to install all depencies. Once depencies are installed, use the command 'node index' to launch the command line prompts.
+
+## Usage
+This application can be used to quickly generate a custom README.MD file based on user input for command line prompts.
+
+## Tests
+By running the application in the command line using 'node index' command.
+
+## License
+Your project is covered under license: MIT 
+
+## Contribution
+My tutor and referencing my module lessons were how I completed this project. helped with the creation of this project.

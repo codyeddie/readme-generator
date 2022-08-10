@@ -34,7 +34,7 @@ This application can be used to quickly generate a custom README.MD file based o
 By running the application in the command line using 'node index' command.
 
 ## License
-Your project is covered under license: MIT 
+Your project is covered under license: N/A 
 
 ## Contribution
 My tutor and referencing my module lessons were how I completed this project. helped with the creation of this project.
